@@ -17,15 +17,6 @@ Modules and Packages:
 * Matplotlib
 * Textwrap
 
-## Usage
-
-Run the script from terminal, e.g.
-
-```bash
-python text_analyser.py -d test_docs/ -o 5 -l 6
-python text_analyser.py -f test_docs/doc3.txt -s 2
-```
-
 ## Future ideas
 
-* Improve Bokeh plots - loop
+* multipage pdf to save figures
